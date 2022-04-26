@@ -1,0 +1,4 @@
+C:\Users\ASUS\Documents\My Project\Interface_IProc\InterfaceIProc\InterfaceIProc\x64\Debug\InterfaceIProc.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\My Project\Interface_IProc\InterfaceIProc\InterfaceIProc\x64\Debug\InterfaceIProc.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\My Project\Interface_IProc\InterfaceIProc\InterfaceIProc\x64\Debug\InterfaceIProc.MyForm.resources
+C:\Users\ASUS\Documents\My Project\Interface_IProc\InterfaceIProc\InterfaceIProc\x64\Debug\InterfaceIProc.vcxproj.GenerateResource.cache
